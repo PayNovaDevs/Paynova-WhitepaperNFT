@@ -27,7 +27,7 @@ contract PayNovaWhitepaperNFT is ERC721 {
     mapping(address => bool) public hasClaimed;
 
     string private constant _TOKEN_URI =
-        "ipfs://Qmdb9fQU3V9s7wsADZk5fBAqKkEb45feqykcRzEa2gNRno";
+        "ipfs://bafkreihoauvfbzae3kfpitxt3bqutp64xvj5li4iyyro4xpy6l5fhfew7u";
 
     event WhitepaperClaimed(address indexed account, uint256 indexed tokenId);
 
