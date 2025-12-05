@@ -50,12 +50,14 @@ ipfs://Qmdb9fQU3V9s7wsADZk5fBAqKkEb45feqykcRzEa2gNRno
 {
   "name": "PayNova Whitepaper",
   "description": "Official PayNova hybrid payments infrastructure whitepaper, claimable as an NFT.",
-  "image": "ipfs://bafybeibk6pujryevpwnbue7u23swjyaajjqrtpuhke6jcj4tyu3s436rae",
+  "image": "ipfs://bafybeig4drnmokkvcs5pkxqquzgz5s6pv6eusvfq2xe3cxovp5dattdmla",
+  "animation_url": "ipfs://bafybeibk6pujryevpwnbue7u23swjyaajjqrtpuhke6jcj4tyu3s436rae",
   "external_url": "https://pay-nova.org/",
   "attributes": [
     { "trait_type": "Document", "value": "Whitepaper" },
     { "trait_type": "Project", "value": "PayNova" },
-    { "trait_type": "Type", "value": "Hybrid Payments" }
+    { "trait_type": "Type", "value": "Hybrid Payments" },
+    { "trait_type": "Format", "value": "PDF" }
   ]
 }
 ```
